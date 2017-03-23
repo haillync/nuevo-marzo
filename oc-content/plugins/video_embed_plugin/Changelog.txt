@@ -1,0 +1,12 @@
+Version 1.5.2 - 17 February, 2016
+- Fixed blank space if video field empty
+
+Version 1.5.1 - 13 October, 2016
+- Fixed vimeo URL error
+
+Version 1.5.0 - 10 October, 2016
+- Added Facebook support
+- Added Metacafe support
+
+Version 1.0.0 - 18 September, 2015
+- Initial release

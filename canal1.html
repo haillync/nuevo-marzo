@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div >
+<script type="text/javascript" src="http://servers10.com/mediacp/system/misc/jwplayer7/jwplayer.js?2.1.9.2"></script>
+<script type="text/javascript">jwplayer.key="qhEmdA8eZG/o4AbAAmWiTRjsZjI9L7NujXShRw==";</script><div id="MediaPlayerOverview">Loading...</div>
+<script type="text/javascript">
+  jwplayer('MediaPlayerOverview').setup({
+ sources: [{
+   file: "rtmp://servers10.com:1935/8426/8426"
+  },{
+   file: "http://servers10.com:1935/8426/8426/playlist.m3u8"
+  }],
+ rtmp: {
+  bufferlength: 3,
+ },
+ 'autostart': 'true',
+ 'width': '570',
+ 'height': '370',
+ fallback: false,
+ androidhls: true
+ });
+</script> 
+</div>
+</body>
+</html>

@@ -1,0 +1,2 @@
+/domains/porgps.com/public_html/eventos/oc-admin
+/domains/porgps.com/public_html/eventos/oc-includes

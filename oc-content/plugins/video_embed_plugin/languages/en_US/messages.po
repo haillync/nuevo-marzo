@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Osclass 3.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-04 06:08+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rahamathullah <drizzlethemes@gmail.com>\n"
+"Language-Team: DrizzleThemes <drizzlethemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Video Embed Plugin Settings"
+msgstr ""
+
+msgid "Remove Auto Video Placement"
+msgstr ""
+
+msgid "Note:"
+msgstr ""
+
+msgid "By checking checkbox below, you can use a custom place for Video on listing page."
+msgstr ""
+
+msgid "Use:"
+msgstr ""
+
+msgid "Place following code into any place at item.php theme file."
+msgstr ""
+
+msgid "Videos support from:"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video URL"
+msgstr ""
+
+msgid "Note: Only videos support from Youtube, Vimeo and Dailymotion."
+msgstr ""
+
+msgid "Configure"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
